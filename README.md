@@ -1,16 +1,36 @@
-# -E-Commerce-Website
-This is a fully responsive E-Commerce website built using HTML, CSS, and JavaScript. The project showcases a modern online store layout with features such as:
+# 🛒 E-Commerce Website
 
-Product listing with images, descriptions, and prices
+A fully responsive E-Commerce website built using **HTML**, **CSS**, and **JavaScript**. This project demonstrates a modern online shopping experience with a clean and interactive user interface optimized for all devices.
 
-Add-to-cart functionality with dynamic cart updates
+## 📌 Features
 
-Smooth and responsive user interface across devices
+- 📦 **Product Listings**  
+  Display products with images, descriptions, and prices.
 
-Interactive UI using JavaScript for better user experience
+- 🛍️ **Add-to-Cart Functionality**  
+  Real-time cart updates using JavaScript.
 
-Organized and reusable code structure for easy maintenance
+- 📱 **Responsive Design**  
+  Seamless performance across desktops, tablets, and smartphones.
 
-This project demonstrates my front-end development skills and understanding of how to build a user-friendly online shopping platform.
+- ⚡ **Interactive UI**  
+  Enhanced user experience with smooth interactivity via JavaScript.
 
-🔗 Project Website Link: https://raham76.github.io/-E-Commerce-Website/
+- 🧩 **Clean Code Structure**  
+  Organized and reusable code for easy maintenance and scalability.
+
+## 🎯 Project Objective
+
+This project showcases my **front-end development skills** and my understanding of building a user-friendly, responsive online store using core web technologies.
+
+## 🚀 🔗 Live Demo
+Check out the live website here: https://raham76.github.io/-E-Commerce-Website/
+
+## 🛠️ Technologies Used
+
+- HTML5  
+- CSS3  
+- JavaScript (Vanilla JS)
+
+
+
